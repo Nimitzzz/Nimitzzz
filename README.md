@@ -1,10 +1,7 @@
-[![MasterHead]([https://tenor.com/en-GB/view/coding-gif-18657810](https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx))](https://rishavchanda.io)
+[![MasterHead](https://thumbs.gfycat.com/AgonizingSoggyCaecilian-max-1mb.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nimit</h1>
-<h3 align="center">COOL.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/slVWEctHZKvWU/giphy.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimitzzz" alt="nimitzzz" /></a> </p>
-
+<h3 align="center">A Pursuing Electrical engineer who is extremely ambitious about his journey to become a Web3 developer.</h3>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/slVWEctHZKvWU/giphy.gif" padding-left="25%">
 - 🔭 I’m currently working on **Crypto Wallet**
 
 - 🌱 I’m currently learning **Reactjs,Solidity**
