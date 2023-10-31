@@ -1,16 +1,16 @@
 [![MasterHead](https://thumbs.gfycat.com/AgonizingSoggyCaecilian-max-1mb.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nimit</h1>
-<h3 align="center">A Pursuing Electrical engineer who is extremely ambitious about his journey to become a Web3 developer.</h3>
+<h3 align="center">A Pursuing Electrical engineer who is extremely ambitious about his journey to become a ML engineer.</h3>
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/slVWEctHZKvWU/giphy.gif" padding-left="25%">
-- 🔭 I’m currently working on **Crypto Wallet**
+- 🔭 I’m currently working on **GitApp integrated with CodeT5**
 
-- 🌱 I’m currently learning **Reactjs,Solidity**
+- 🌱 I’m currently learning **Tensorflow, Pytorch**
 
-- 👯 I’m looking to collaborate on **Dapps**
+- 👯 I’m looking to collaborate on **ML projects**
 
 - 👨‍💻 All of my projects are available at [https://nimit-portfolio.vercel.app/](https://nimit-portfolio.vercel.app/)
 
-- 💬 Ask me about **Front-end development, Blockchain**
+- 💬 Ask me about **Machine Learning, Deep Learning, Front-end development**
 
 - 📫 How to reach me **nimitj2003@gmail.com**
 
